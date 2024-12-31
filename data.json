@@ -7,7 +7,7 @@
       "Full-Stack Developer",
       "Backend Wizard"
     ],
-    "heroImage": "/Taniaphoto1.jpeg",
+    "heroImage": "/Name-image1.jpg",
     "techStackImages": [
       "/cpp-svgrepo-com.svg",
       "https://img.icons8.com/color/144/react-native.png",
@@ -16,7 +16,7 @@
     ]
   },
   "about": {
-    "aboutImage": "Taniaphoto3.jpeg/",
+    "aboutImage": "name-image.jpg/",
     "aboutImageCaption": "< I build interstellar solutions 🚀/>",
     "title": "Aspiring Tech Innovator",
     "about": "An imaginative developer blending machine learning and full-stack expertise to solve earthly and cosmic challenges. I love crafting innovative solutions and delving into cutting-edge technologies, from blockchain to Web3.",
