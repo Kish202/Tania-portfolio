@@ -39,7 +39,7 @@ type main = {
 }
 
 type about = {
-    aboutImage: "Taniaphoto1.jpeg",
+    aboutImage: "string",
     aboutImageCaption: string,
     title: string,
     about: string,
