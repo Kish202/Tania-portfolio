@@ -37,21 +37,14 @@ const CallToAction = () => {
                 </p>
                 <div className="flex items-center gap-4 my-4">
                     <Link
-                        href="https://github.com/jigar-sable/next-portfolio"
+                        href="https://github.com/Kish202/Tania-portfolio"
                         target="_blank"
                         className="py-2 px-4 bg-white text-black rounded-lg w-fit flex items-center gap-2 hover:shadow-xl transition-shadow"
                     >
                         <FaGithub />
                         Fork Now
                     </Link>
-                    <Link
-                        href="https://github.com/jigar-sable/next-portfolio#readme"
-                        target="_blank"
-                        className="py-2 px-4 bg-violet-800 rounded-lg w-fit flex items-center gap-2 hover:bg-violet-900 transition-all"
-                    >
-                        Visit Docs
-                        <BiLinkExternal />
-                    </Link>
+                 
                 </div>
             </div>
             <div className="w-full md:w-1/2 h-40 md:h-52 lg:w-96 mb-4 md:mb-0 mx-auto rounded-lg bg-white dark:bg-grey-900">
