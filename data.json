@@ -21,7 +21,7 @@
     "title": "Aspiring Tech Innovator",
     "about": "An imaginative developer blending machine learning and full-stack expertise to solve earthly and cosmic challenges. I love crafting innovative solutions and delving into cutting-edge technologies, from blockchain to Web3.",
     "callUrl": "",
-    "resumeUrl":"https://drive.google.com/file/d/1ExDeVGiid7U1ahv9m0pAWu9tID0KRDLu/view?usp=sharing"
+    "resumeUrl": "https://drive.google.com/file/d/17o1uc83nJyHcto11dsD3jS8fsLiD9cTQ/view?usp=sharing"
   },
   "socials": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/CodeWhispererr"
+      "link": "https://github.com/Kish202/"
     }
   ],
   "skills": [
@@ -226,25 +226,14 @@
     }
   ],
   "projects": [
-    {
-      "name": "Skin Cancer Detection App",
-      "techstack": "ResNet50, React, Django, JWT",
-      "category": "Machine Learning",
-      "image": "/Doctor-appointment.png",
-      "links": {
-      "visit":"https://github.com/CodeWhispererr/Doctor-Appointment-Booking-App",
-      "code": "https://github.com/CodeWhispererr/Doctor-Appointment-Booking-App"
-      }
-    
-    },
-
+  
     {
       "name": "BlogCanvas",
       "techstack": "React, Node.js, MongoDB, Firebase, JWT",
       "category": "Full-Stack Development",
       "image": "/Blogcanvasphoto.png",
       "links": {
-        "code": "https://github.com/CodeWhispererr/BlogCanvas-Blogging-App",
+        "code": "https://github.com/Kish202/BlogCanvas",
         
         "visit": "https://blogcanvas.netlify.app/"
       }
@@ -263,11 +252,22 @@
     },
     {
       "name": "Tweet Mini X",
-      "techstack": "React, Postgres, Express.js, Firebase, Redis",
+      "techstack": "React, Vite",
+      "category": "Frontend Development",
+      "image": "/Tweetxmini.png",
+      "links": {
+        "code": "https://github.com/Kish202/TweetX",
+        "visit":"https://tweetx-nitsri.netlify.app"
+        
+      }
+    },
+    {
+      "name": "Next-portfolio",
+      "techstack": "Next.js, Firebase, Sendinblue, TypeScript, Tailwind CSS, Framer Motion",
       "category": "Full-Stack Development",
       "image": "/Tweetxmini.png",
       "links": {
-        "code": "https://github.com/CodeWhispererr/TweetX-App",
+        "code": "https://github.com/Kish202/TweetX",
         "visit":"https://tweetx-nitsri.netlify.app"
         
       }
