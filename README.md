@@ -17,23 +17,22 @@ Next Portfolio is built using Next.js and Tailwind CSS for a modern design and r
 
 Here are the steps to run the portfolio locally.
 
-1. Fork [this](https://github.com/jigar-sable/next-portfolio) repository.
 
-2. Clone your forked copy of the repo
+1. Clone your forked copy of the repo
 
    ```bash
-   git clone https://github.com/<your-github-username>/<next-portfolio>.git
+   git clone https://github.com/Kish202/Tania-portfolio.git
    ```
 
-3. Install dependencies
+2. Install dependencies
 
    ```bash
    npm i
    ```
 
-4. Create a Firebase project and select the web app
+3. Create a Firebase project and select the web app
 
-5. Create an `.env.local` file in the root directory, and add the following variables with your firebase config:
+4. Create an `.env.local` file in the root directory, and add the following variables with your firebase config:
    ```
    NEXT_PUBLIC_FIREBASE_DATABASE_URL= your firebase url
    SENDINBLUE_SMTP_USER= xxxxxxxx
@@ -50,7 +49,7 @@ Here are the steps to run the portfolio locally.
 2. Import json data
 
    - Go to [Firebase Console](https://console.firebase.google.com) and select your project
-   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json](https://github.com/jigar-sable/next-portfolio/blob/main/data.json) file
+   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json] file
 
 3. Run the project
 
@@ -76,6 +75,6 @@ Here are the steps to run the portfolio locally.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jigar-sable/next-portfolio/blob/main/LICENSE.md)
+This project is licensed under MIT License
 
 
