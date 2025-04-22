@@ -28,7 +28,7 @@ const HomePage = ({ data }: Props) => {
         educationData={data.education}
       />
       <Contact />
-      <Footer socials={data.socials} name={data.main.name} />
+  
     </>
   );
 };
