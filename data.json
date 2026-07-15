@@ -1,0 +1,270 @@
+{
+  "main": {
+    "name": "Tania",
+    "shortDesc": "Blasting through the tech galaxy with JavaScript thrusters, React shields, and an engine powered by MongoDB, Express, Node.js, TypeScript, and Next.js — decoding Machine Learning mysteries one cosmic challenge at a time.",
+    "titles": [
+      "Machine Learning Enthusiast",
+      "Full-Stack Developer",
+      "Backend Wizard"
+    ],
+    "heroImage": "/Taniaphoto1.jpeg",
+    "techStackImages": [
+      "/cpp-svgrepo-com.svg",
+      "https://img.icons8.com/color/144/react-native.png",
+      "/postgresql-icon-7.jpg",
+      "https://img.icons8.com/color/144/mongodb.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "/Taniaphoto3.jpeg",
+    "aboutImageCaption": "< I build interstellar solutions 🚀/>",
+    "title": "aspiring Tech Innovator",
+    "about": "visionary developer fusing machine learning and full-stack skills to tackle both earthly and cosmic puzzles. From MERN and Next.js to Python and FastAPI, I’m all about crafting next-gen solutions and leveraging advanced AI technologies to push the boundaries of innovation.",
+    "callUrl": "",
+    "resumeUrl":"https://drive.google.com/file/d/1eEN88OGSM1_Yv0jUvQQoR7zE1ljb04aQ/view?usp=sharing"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/tania-tania-4625252ab/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/Kish202/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/python.png",
+      "category": "Languages"
+      
+    },
+    {
+      "name": "C++",
+      "image": "/cpp-svgrepo-com.svg",
+      "category": "Languages"
+      
+    },
+    {
+      "name": "CSS",
+      "image": "/css-icon.png",
+      "category": "Languages"
+      
+    },
+    {
+      "name": "Java",
+      "image": "/Java.png",
+      "category": "Languages"
+      
+    },
+
+    {
+      "name": "TypeScript",
+      "image": "https://img.icons8.com/color/144/typescript.png",
+      "category": "Languages"
+    },
+    {
+      "name": "Javascript",
+      "image": "https://img.icons8.com/color/144/javascript--v1.png",
+      "category": "Languages"
+    },
+
+    {
+      "name": "Next.js",
+      "image": "https://img.icons8.com/fluency/144/nextjs.png",
+      "category": "Framework"
+    },
+    {
+      "name": "Tailwind CSS",
+      "image": "/tailwind-css-icon.png",
+      "category": "Framework"
+    },
+    {
+      "name": "Material-UI",
+      "image": "https://img.icons8.com/color/144/material-ui.png",
+      "category": "Framework"
+    },
+    {
+      "name": "RESTFul APIs",
+      "image": "https://img.icons8.com/color/144/docker.png",
+      "category": "Framework"
+    },
+    {
+      "name": "Shadcn",
+      "image": "https://img.icons8.com/fluency/144/design.png",
+      "category": "Plus Points"
+    },
+ 
+    {
+      "name": "ReactJs",
+      "image": "https://img.icons8.com/color/144/react-native.png",
+      "category": "Framework"
+    },
+    {
+      "name": "Node.js",
+      "image": "https://img.icons8.com/color/144/nodejs.png",
+      "category": "Framework"
+    },
+    {
+      "name": "PostgreSQL",
+      "image": "/postgresql-icon-7.jpg",
+      "category": "Database"
+    },
+    {
+      "name": "Machine Learning",
+      "image": "https://img.icons8.com/color/144/artificial-intelligence.png",
+      "category": "Plus Points"
+    },
+  
+    {
+      "name": "Docker",
+      "image": "https://img.icons8.com/color/144/docker.png",
+      "category": "Developer Tools"
+    },
+    {
+      "name": " AWS S3",
+      "image": "https://img.icons8.com/color/144/amazon-s3.png",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "EC2",
+      "image": "https://img.icons8.com/color/144/amazon-web-services.png",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Mongodb",
+      "image": "https://img.icons8.com/color/144/mongodb.png",
+      "category": "Database"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/color/144/mysql-logo.png",
+      "category": "Database"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/firebase.png",
+      "category": "Database"
+    },
+    {
+      "name": "HTML",
+      "image": "https://img.icons8.com/color/144/html-5--v1.png",
+      "category": "Languages"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/color/144/git.png",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "VS Code",
+      "image": "https://img.icons8.com/color/144/visual-studio-code-2019.png",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Linux",
+      "image": "https://img.icons8.com/color/144/linux.png",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Intellij",
+      "image": "https://img.icons8.com/color/144/intellij-idea.png",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "Pandas",
+      "image": "https://img.icons8.com/color/144/pandas.png",
+      "category": "Plus Points"
+    },
+    {
+      "name": "Numpy",
+      "image": "https://img.icons8.com/color/144/numpy.png",
+      "category": "Plus Points"
+    }
+  ],
+  
+  "experiences": [
+    {
+      "company": "NIT Srinagar",
+      "position": "Backend Developer",
+      "duration": "May 2022 - Aug 2022",
+      "desc": [
+        "Developed a full-stack web application using Node.js, Express.js, and React.js for the IT department.",
+        "Integrated features like real-time notifications and admin portals for seamless faculty-student interactions.",
+        "Managed a user base of over 5000, enhancing the platform's scalability and usability."
+      ]
+    }
+  ],
+  "projects": [
+
+    {
+      "name": "BlogCanvas",
+      "techstack": "React, Node.js, MongoDB, Firebase, JWT",
+      "category": "Full-Stack Development",
+      "image": "/Blogcanvasphoto.png",
+      "links": {
+        "code": "https://github.com/Kish202/BlogCanvas",
+        
+        "visit": "https://blogcanvas.netlify.app/"
+      }
+    },
+
+    {
+      "name": "Clash",
+      "techstack": "Next.js, Node.js, PostgreSQL, Docker, Typescript, JWT",
+      "category": "Full-Stack Development",
+      "image": "/Clashphoto.png",
+      "links": {
+        "code": "https://github.com/Kish202/Clash",
+        "visit":"https://github.com/Kish202/Clash"
+        
+      }
+    },
+    {
+      "name": "Tweet Mini X",
+      "techstack": "React, Vite",
+      "category": "Frontend Development",
+      "image": "/Tweetxmini.png",
+      "links": {
+        "code": "https://github.com/Kish202/TweetX",
+        "visit":"https://tweetx-nitsri.netlify.app"
+        
+      }
+    },
+    {
+      "name": "Next-portfolio",
+      "techstack": "Next.js, Firebase, Sendinblue, TypeScript, Tailwind CSS, Framer Motion",
+      "category": "Full-Stack Development",
+      "image": "/Tania-portfolio.png",
+      "links": {
+        "code": "https://github.com/Kish202/Tania-portfolio",
+        "visit":"https://tania-next-portfolio.vercel.app/"
+        
+      }
+    },
+    {
+      "name": "Job-Portal",
+      "techstack": "Reactjs, Javascript, Tailwind CSS, Shadcn, Framer Motion",
+      "category": "Frontend Development",
+      "image": "/Job-Portal.png",
+      "links": {
+        "code": "https://github.com/Kish202/JobPortal",
+        "visit":"https://jobportal-ten-lime.vercel.app/"
+        
+      }
+    }
+
+  ],
+  "education": [
+    {
+      "institute": "National Institute of Technology, Srinagar",
+      "degree": "B.Tech in Information Technology",
+      "duration": "2020 - 2024",
+      "desc": ["GPA: 8.106"] 
+    }
+  ]
+}
+
+
+
