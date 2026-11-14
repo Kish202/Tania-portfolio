@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4c1d95"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+  <rect width="1280" height="800" fill="url(#g)"/>
+  <circle cx="1130" cy="120" r="220" fill="#ffffff" opacity="0.06"/>
+  <circle cx="120" cy="720" r="180" fill="#ffffff" opacity="0.05"/>
+  <text x="640" y="350" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="84" font-weight="700" fill="#ffffff">Voice Agent</text>
+  <text x="640" y="430" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#ede9fe">Phone agent that talks to callers in real time</text>
+  <rect x="190" y="500" width="900" height="70" rx="35" fill="#ffffff" opacity="0.14"/>
+  <text x="640" y="546" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#ffffff">Python · Flask · Twilio · OpenAI · WebSockets</text>
+</svg>
