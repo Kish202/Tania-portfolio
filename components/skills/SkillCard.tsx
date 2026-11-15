@@ -41,6 +41,7 @@ const Skill = ({ name, image }: skill) => {
               : "invert-0")
           }`}
           src={image}
+          unoptimized={image.endsWith(".svg")}
         />
       </div>
       <p className="text-sm md:text-base text-center">{name}</p>

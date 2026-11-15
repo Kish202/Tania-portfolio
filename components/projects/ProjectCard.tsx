@@ -27,7 +27,7 @@ const Project = ({ name, image, category, techstack, links }: project) => {
             className="flex flex-col gap-2 bg-white dark:bg-grey-800 rounded-lg p-4">
 
             <div className="relative group rounded-lg bg-violet-50">
-                <Image alt={name} width={1000} height={1000} className="max-w-full h-48 max-h-full object-cover object-top rounded-lg" src={image} />
+                <Image alt={name} width={1000} height={1000} className="max-w-full h-48 max-h-full object-cover object-top rounded-lg" src={image} unoptimized={image.endsWith(".svg")} />
                 
                 {/* {(links.visit.trim() || links.code.trim() || links.video.trim()) && */}
                  {(links.visit.trim() ) &&
